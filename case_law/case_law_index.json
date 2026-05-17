@@ -1,0 +1,699 @@
+{
+ "generated_at": "2026-05-17T23:05:59.921756+00:00",
+ "case_law_count": 52,
+ "db_verified_count": 50,
+ "statute_rule_count": 11,
+ "case_law": [
+  {
+   "name": "Alcorn v. Vaksman",
+   "citation": "877 S.W.2d 390",
+   "court_id": "texapp",
+   "year": 1994,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 2385030,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-17": "audited"
+   }
+  },
+  {
+   "name": "Anderson v. City of Seven Points",
+   "citation": "806 S.W.2d 791",
+   "court_id": "tex",
+   "year": 1991,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 1519282,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-25": "counter"
+   }
+  },
+  {
+   "name": "Boim v. Fulton County School District",
+   "citation": "494 F.3d 978",
+   "court_id": "ca11",
+   "year": 2007,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 77732,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-59": "audited"
+   }
+  },
+  {
+   "name": "City of El Paso v. Heinrich",
+   "citation": "284 S.W.3d 366",
+   "court_id": "tex",
+   "year": 2009,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 895110,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-16": "counter"
+   }
+  },
+  {
+   "name": "Colorado River Water Conservation Dist. v. United States",
+   "citation": "424 U.S. 800",
+   "court_id": "scotus",
+   "year": 1976,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 109405,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-24": "counter"
+   }
+  },
+  {
+   "name": "Curtis v. Gibbs",
+   "citation": "511 S.W.2d 263",
+   "court_id": "tex",
+   "year": 1974,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 2407186,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-24": "counter"
+   }
+  },
+  {
+   "name": "Dunton v. County of Suffolk",
+   "citation": "729 F.2d 903",
+   "court_id": "ca2",
+   "year": 1984,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 432233,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-42": "counter",
+    "F-76": "counter",
+    "F-77": "counter"
+   }
+  },
+  {
+   "name": "Esfeller v. O'Keefe",
+   "citation": "391 F. App'x 337",
+   "court_id": "ca5",
+   "year": 2010,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 8508154,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-86": "counter"
+   }
+  },
+  {
+   "name": "FDIC v. U.S. Fire Ins. Co.",
+   "citation": "50 F.3d 1304",
+   "court_id": "ca5",
+   "year": 1995,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 7033,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-71": "counter"
+   }
+  },
+  {
+   "name": "Filarsky v. Delia",
+   "citation": "566 U.S. 377",
+   "court_id": "scotus",
+   "year": 2012,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 798512,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-43": "audited",
+    "F-70": "counter"
+   }
+  },
+  {
+   "name": "Hafer v. Melo",
+   "citation": "502 U.S. 21",
+   "court_id": "scotus",
+   "year": 1991,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 112657,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-69": "counter",
+    "F-81": "counter",
+    "F-84": "counter"
+   }
+  },
+  {
+   "name": "Harris Cty. v. Sykes",
+   "citation": "136 S.W.3d 635",
+   "court_id": "tex",
+   "year": 2004,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 894530,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-21": "counter"
+   }
+  },
+  {
+   "name": "Healy v. James",
+   "citation": "408 U.S. 169",
+   "court_id": "scotus",
+   "year": 1972,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 108600,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-59": "counter",
+    "F-86": "counter"
+   }
+  },
+  {
+   "name": "Hensley v. State Comm'n on Judicial Conduct",
+   "citation": "692 S.W.3d 184",
+   "court_id": null,
+   "year": null,
+   "precedential_status": null,
+   "per_curiam": null,
+   "cl_clusters_id": null,
+   "db_status": "unresolved",
+   "cited_by": {
+    "S-12": "counter",
+    "S-16": "counter"
+   }
+  },
+  {
+   "name": "Horaist v. Doctor's Hosp.",
+   "citation": "255 F.3d 261",
+   "court_id": "ca5",
+   "year": 2001,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 24456,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-80": "counter"
+   }
+  },
+  {
+   "name": "Houston Belt & Terminal Ry. v. City of Houston",
+   "citation": "487 S.W.3d 154",
+   "court_id": "tex",
+   "year": 2016,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 3192000,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-13": "counter",
+    "S-16": "audited"
+   }
+  },
+  {
+   "name": "In Re American Airlines, Inc., Amr Corporation",
+   "citation": "972 F.2d 605",
+   "court_id": "ca5",
+   "year": 1992,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 588825,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-38": "counter",
+    "F-71": "counter",
+    "F-79": "counter"
+   }
+  },
+  {
+   "name": "In Re the Lynd Co.",
+   "citation": "195 S.W.3d 682",
+   "court_id": "tex",
+   "year": 2006,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 894734,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-5": "counter"
+   }
+  },
+  {
+   "name": "Inc. v. Pub. Serv. Comm'n",
+   "citation": "535 U.S. 635",
+   "court_id": "scotus",
+   "year": 2002,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 118506,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-62": "counter"
+   }
+  },
+  {
+   "name": "Jacobsen v. Osborne",
+   "citation": "133 F.3d 315",
+   "court_id": "ca5",
+   "year": 1998,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 13837,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-64": "counter"
+   }
+  },
+  {
+   "name": "John v. Marshall Health Servs.",
+   "citation": "58 S.W.3d 738",
+   "court_id": "tex",
+   "year": 2001,
+   "precedential_status": "Published",
+   "per_curiam": true,
+   "cl_clusters_id": 1773194,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-6": "counter"
+   }
+  },
+  {
+   "name": "Krupski v. Costa Crociere",
+   "citation": "560 U.S. 538",
+   "court_id": "scotus",
+   "year": 2010,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 147952,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-33": "counter",
+    "F-64": "counter"
+   }
+  },
+  {
+   "name": "L.P. v. Actavis Mid Atl. LLC",
+   "citation": "927 F. Supp. 2d 390",
+   "court_id": "txnd",
+   "year": 2013,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 8723204,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-72": "counter"
+   }
+  },
+  {
+   "name": "L.P. v. Emmett",
+   "citation": "459 S.W.3d 578",
+   "court_id": "tex",
+   "year": 2015,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 5445435,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-26": "counter"
+   }
+  },
+  {
+   "name": "Lopez v. Lopez",
+   "citation": "757 S.W.2d 721",
+   "court_id": "tex",
+   "year": 1988,
+   "precedential_status": "Published",
+   "per_curiam": true,
+   "cl_clusters_id": 1496638,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-1": "counter"
+   }
+  },
+  {
+   "name": "Mahanoy Area Sch. Dist. v. B.L.",
+   "citation": "141 S. Ct. 2038",
+   "court_id": null,
+   "year": null,
+   "precedential_status": null,
+   "per_curiam": null,
+   "cl_clusters_id": null,
+   "db_status": "unresolved",
+   "cited_by": {
+    "F-86": "counter"
+   }
+  },
+  {
+   "name": "Mathis v. Lockwood",
+   "citation": "166 S.W.3d 743",
+   "court_id": "tex",
+   "year": 2005,
+   "precedential_status": "Published",
+   "per_curiam": true,
+   "cl_clusters_id": 1380215,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-2": "counter"
+   }
+  },
+  {
+   "name": "Mem'l Hosp. v. Gillis",
+   "citation": "741 S.W.2d 364",
+   "court_id": "tex",
+   "year": 1987,
+   "precedential_status": "Published",
+   "per_curiam": true,
+   "cl_clusters_id": 1730626,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-4": "counter"
+   }
+  },
+  {
+   "name": "Mitchell v. Forsyth",
+   "citation": "472 U.S. 511",
+   "court_id": "scotus",
+   "year": 1985,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 111481,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-21": "counter"
+   }
+  },
+  {
+   "name": "Papish v. Bd. of Curators of Univ. of Mo.",
+   "citation": "410 U.S. 667",
+   "court_id": "scotus",
+   "year": 1973,
+   "precedential_status": "Published",
+   "per_curiam": true,
+   "cl_clusters_id": 108740,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-86": "counter"
+   }
+  },
+  {
+   "name": "Parker v. LeBlanc",
+   "citation": "73 F.4th 400",
+   "court_id": "ca5",
+   "year": 2023,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 9413922,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-34": "counter"
+   }
+  },
+  {
+   "name": "Pearson v. Callahan",
+   "citation": "555 U.S. 223",
+   "court_id": "scotus",
+   "year": 2009,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 145918,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-34": "audited"
+   }
+  },
+  {
+   "name": "Pena v. City of Rio Grande City",
+   "citation": "879 F.3d 613",
+   "court_id": "ca5",
+   "year": 2018,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 4459222,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-37": "counter"
+   }
+  },
+  {
+   "name": "Peralta v. Heights Med. Ctr.",
+   "citation": "485 U.S. 80",
+   "court_id": "scotus",
+   "year": 1988,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 112014,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-3": "counter"
+   }
+  },
+  {
+   "name": "Perillo v. Johnson",
+   "citation": "79 F.3d 441",
+   "court_id": "ca5",
+   "year": 1996,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 8856,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-48": "counter"
+   }
+  },
+  {
+   "name": "Pham v. Univ. of La. at Monroe",
+   "citation": "194 F. Supp. 3d 534",
+   "court_id": "lawd",
+   "year": 2016,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 7321007,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-60": "counter"
+   }
+  },
+  {
+   "name": "Pickett v. TTUHSC",
+   "citation": "37 F.4th 1013",
+   "court_id": "ca5",
+   "year": 2022,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 6477999,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-23": "counter",
+    "F-52": "counter",
+    "F-54": "counter"
+   }
+  },
+  {
+   "name": "Puerto Rico Aqueduct and Sewer Authority v. Metcalf & Eddy, Inc.",
+   "citation": "506 U.S. 139",
+   "court_id": "scotus",
+   "year": 1993,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 112800,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-63": "counter"
+   }
+  },
+  {
+   "name": "Regents of Univ. of Mich. v. Ewing",
+   "citation": "474 U.S. 214",
+   "court_id": "scotus",
+   "year": 1985,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 111549,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-17": "audited"
+   }
+  },
+  {
+   "name": "See Strackbein v. Prewitt",
+   "citation": "671 S.W.2d 37",
+   "court_id": "tex",
+   "year": 1984,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 2367100,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-7": "audited"
+   }
+  },
+  {
+   "name": "See Wimm v. Jack Eckerd Corp.",
+   "citation": "3 F.3d 137",
+   "court_id": "ca5",
+   "year": 1993,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 628646,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-35": "audited"
+   }
+  },
+  {
+   "name": "Shamloo v. Mississippi State Bd.",
+   "citation": "620 F.2d 516",
+   "court_id": "ca5",
+   "year": 1980,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 377838,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-86": "counter"
+   }
+  },
+  {
+   "name": "Tinker v. Des Moines Indep. Cmty. Sch. Dist.",
+   "citation": "393 U.S. 503",
+   "court_id": "scotus",
+   "year": 1969,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 107841,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-59": "audited"
+   }
+  },
+  {
+   "name": "TrafFix Devices, Inc. v. Marketing Displays, Inc.",
+   "citation": "532 U.S. 23",
+   "court_id": "scotus",
+   "year": 2001,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 118411,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-85": "counter"
+   }
+  },
+  {
+   "name": "Univ. of Tex. Med. Sch. at Houston v. Than",
+   "citation": "901 S.W.2d 926",
+   "court_id": "tex",
+   "year": 1995,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 2454382,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-17": "counter"
+   }
+  },
+  {
+   "name": "Van Dyke v. Boswell",
+   "citation": "697 S.W.2d 381",
+   "court_id": "tex",
+   "year": 1985,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 1714526,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-20": "counter",
+    "S-24": "counter"
+   }
+  },
+  {
+   "name": "Van Ooteghem v. Gray",
+   "citation": "628 F.2d 488",
+   "court_id": "ca5",
+   "year": 1980,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 381330,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-41": "counter"
+   }
+  },
+  {
+   "name": "Wheat v. United States",
+   "citation": "486 U.S. 153",
+   "court_id": "scotus",
+   "year": 1988,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 112074,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-40": "counter",
+    "F-68": "counter"
+   }
+  },
+  {
+   "name": "Will v. Michigan",
+   "citation": "491 U.S. 58",
+   "court_id": "scotus",
+   "year": 1989,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 112293,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-69": "counter"
+   }
+  },
+  {
+   "name": "Wilton v. Seven Falls Co.",
+   "citation": "515 U.S. 277",
+   "court_id": "scotus",
+   "year": 1995,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 117948,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-19": "counter"
+   }
+  },
+  {
+   "name": "Woods v. Covington County Bank",
+   "citation": "537 F.2d 804",
+   "court_id": "ca5",
+   "year": 1976,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 336421,
+   "db_status": "resolved",
+   "cited_by": {
+    "F-79": "audited"
+   }
+  },
+  {
+   "name": "Wyatt v. Shaw Plumbing Co.",
+   "citation": "760 S.W.2d 245",
+   "court_id": "tex",
+   "year": 1988,
+   "precedential_status": "Published",
+   "per_curiam": false,
+   "cl_clusters_id": 2402818,
+   "db_status": "resolved",
+   "cited_by": {
+    "S-24": "counter"
+   }
+  }
+ ]
+}

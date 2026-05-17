@@ -15,7 +15,7 @@ The two cases audited:
 
 ---
 
-## The two documents
+## The documents
 
 - **[`CANDOR_CATALOG_PLAIN_LANGUAGE.md`](CANDOR_CATALOG_PLAIN_LANGUAGE.md)**
   — the primary document. A plain-language guide written at roughly a
@@ -27,7 +27,14 @@ The two cases audited:
   companion document. The full legal version of every entry, with rule
   citations, counter-cites, and the red-team test in legal language.
 
-Both cover the identical 112 entries:
+- **[`case_law/CASE_LAW_APPENDIX.md`](case_law/CASE_LAW_APPENDIX.md)** —
+  the case-law appendix. Every legal authority the catalog relies on or
+  audits, with case name, court, year, and precedential status
+  confirmed against a copy of the CourtListener opinion database, the
+  holding the catalog relies on, and a link to the full opinion.
+  `case_law/case_law_index.json` is the machine-readable form.
+
+The two catalog documents cover the identical 112 entries:
 
 | Part | Source | Entries |
 |---|---|---:|
@@ -55,6 +62,12 @@ and what the record says.
 - **Entries that rely on sealed court exhibits** have those references
   screened or redacted; the published portions stand on the face of the
   public record.
+
+- **Every cited authority is listed in the case-law appendix.** Case
+  name, court, year, and precedential status are confirmed against an
+  opinion database, and each entry links to the full opinion — so a
+  reader can check the catalog's characterization of any case against
+  the source.
 
 ## What this catalog does NOT establish
 
