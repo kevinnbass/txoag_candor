@@ -22,6 +22,12 @@
   defense of the challenged wording was stated and tested against the
   primary source; only entries that still failed are kept.
 
+### Changed
+- Both catalog documents now list entries **by severity** — most serious
+  first (severity 4 → 1) within each Part — instead of by entry number.
+  Ties break by entry number ascending. The plain-language and detailed
+  documents share the same sort, so they remain 1:1 aligned.
+
 ### Status
 - **Staged for review, not yet published.** The catalog documents carry
   a draft notice in their text. Committed so the staged state can be
