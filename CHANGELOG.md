@@ -1,5 +1,34 @@
 # CHANGELOG
 
+## v2 (2026-05-17) — Doc 39 intake, counsel attribution, within-severity ordering
+
+### Added
+- **One new entry — F-87.** A federal filing not previously in the audit
+  scope — Defendants' Response in Opposition to Plaintiff's Motion for
+  Leave to File a Third Amended Complaint — was audited and added. The
+  catalog now covers every substantive defense brief in both cases. **110
+  entries — 86 federal, 24 Texas state** (was 109 — 85 / 24). The audit of
+  that filing also verified all nine of its case citations against the
+  opinion database; all resolved (no missing or misattributed cases), so
+  the filing contributed exactly one entry.
+- **Counsel of record, per filing.** Each entry's source filing is now
+  identified with the attorney who signed it. Every defense filing
+  catalogued here was signed by Scott D. Smith, Assistant Attorney General
+  (Texas Bar No. 24011874), Office of the Attorney General of Texas — the
+  detailed document shows a "Signed by" line on each entry, and the
+  plain-language document names counsel once per Part. The attribution is
+  established by each filing's own signature block, cited as provenance.
+
+### Changed
+- Within each severity band, entries are now listed in a fixed shuffled
+  order rather than by entry number. The severity ordering is unchanged —
+  most serious first (severity 4 → 1) within each Part. The plain-language
+  and detailed documents share the same order, so they remain 1:1 aligned.
+
+### Status
+- **Staged for review, not yet published.** Unchanged from v1 — the catalog
+  documents still carry a draft notice in their text.
+
 ## v1 (2026-05-17) — initial catalog
 
 ### Added

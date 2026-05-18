@@ -34,11 +34,11 @@ The two cases audited:
   holding the catalog relies on, and a link to the full opinion.
   `case_law/case_law_index.json` is the machine-readable form.
 
-The two catalog documents cover the identical 109 entries:
+The two catalog documents cover the identical 110 entries:
 
 | Part | Source | Entries |
 |---|---|---:|
-| I | Federal-court filings | 85 |
+| I | Federal-court filings | 86 |
 | II | Texas state-court filings | 24 |
 
 ---
