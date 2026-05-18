@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## v3 (2026-05-17) — public release
+
+### Changed
+- **Repository made public.** The draft notices have been removed from the
+  three catalog documents (`CANDOR_CATALOG_DETAILED.md`,
+  `CANDOR_CATALOG_PLAIN_LANGUAGE.md`, `case_law/CASE_LAW_APPENDIX.md`) and
+  the `README.md` Status section. v1 and v2 were staged for review; this is
+  the first public release. Catalog content is unchanged from v2 — 110
+  entries (86 federal, 24 Texas state).
+
+### Status
+- **Published.**
+
 ## v2 (2026-05-17) — Doc 39 intake, counsel attribution, within-severity ordering
 
 ### Added

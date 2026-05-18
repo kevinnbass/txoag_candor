@@ -85,9 +85,9 @@ and what the record says.
 
 ## Status
 
-**Draft — staged for review, not yet published.** The catalog documents
-carry a draft notice in their text. They are committed here so the
-staged state can be reviewed before this repository is made public.
+**Published.** This repository is public. The catalog will be updated as
+the underlying litigation proceeds — see [`CHANGELOG.md`](CHANGELOG.md) for
+the version history.
 
 ## License
 
