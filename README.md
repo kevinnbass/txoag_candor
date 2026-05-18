@@ -34,13 +34,12 @@ The two cases audited:
   holding the catalog relies on, and a link to the full opinion.
   `case_law/case_law_index.json` is the machine-readable form.
 
-The two catalog documents cover the identical 112 entries:
+The two catalog documents cover the identical 109 entries:
 
 | Part | Source | Entries |
 |---|---|---:|
 | I | Federal-court filings | 85 |
 | II | Texas state-court filings | 24 |
-| III | Self-audit — Bass's own filings | 3 |
 
 ---
 
@@ -54,10 +53,11 @@ and what the record says.
   and tested against the primary source. Only entries that still failed
   that test are here.
 
-- **The plaintiff's own filings are audited under the identical
-  standard** (Part III). This is a transparency audit, not a one-sided
-  accusation: the same checkable-accuracy standard is applied to both
-  sides.
+- **Every entry is checkable.** Each one quotes the exact filed
+  language and names its source — the docket entry, the page, the cited
+  authority. This is an accuracy audit, not an accusation: a reader does
+  not have to take the catalog's word for anything; the entry points to
+  the record so the reader can verify or rebut it directly.
 
 - **Entries that rely on sealed court exhibits** have those references
   screened or redacted; the published portions stand on the face of the
