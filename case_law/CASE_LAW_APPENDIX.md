@@ -11,10 +11,11 @@ These are the court decisions and rules that the entries on the [main page](../R
 | [In re Dresser Industries, Inc.](https://www.courtlistener.com/opinion/588818/) | 972 F.2d 540 (5th Cir. 1992) | 2, 3 |
 | [In re American Airlines, Inc.](https://www.courtlistener.com/opinion/588825/) | 972 F.2d 605 (5th Cir. 1992) | 3 |
 | [Horaist v. Doctor's Hospital of Opelousas](https://www.courtlistener.com/opinion/24456/) | 255 F.3d 261 (5th Cir. 2001) | 3 |
-| [Texas Department of Protective & Regulatory Services v. Mega Child Care, Inc.](https://www.courtlistener.com/opinion/894590/) | 145 S.W.3d 170 (Tex. 2004) | 8 |
-| [Anderson v. City of Seven Points](https://www.courtlistener.com/opinion/1519282/) | 806 S.W.2d 791 (Tex. 1991) | 13 |
+| [Texas Department of Protective & Regulatory Services v. Mega Child Care, Inc.](https://www.courtlistener.com/opinion/894590/) | 145 S.W.3d 170 (Tex. 2004) | 9 |
+| [Van Overdam v. Texas A&M University](https://www.courtlistener.com/opinion/7855398/van-overdam-v-texas-a-m-univ/) | 43 F.4th 522 (5th Cir. 2022) | 13 |
+| [Anderson v. City of Seven Points](https://www.courtlistener.com/opinion/1519282/) | 806 S.W.2d 791 (Tex. 1991) | 15 |
 
 | Rule | Entries |
 |---|---|
 | [Texas Disciplinary Rule of Professional Conduct 1.06, comment 17](https://www.law.uh.edu/libraries/ethics/TRPC/1.06.html) | 3 |
-| [1 Tex. Admin. Code § 57.1 (definitions, outside counsel contracts)](https://www.law.cornell.edu/regulations/texas/1-Tex-Admin-Code-SS-57-1) | 12 |
+| [1 Tex. Admin. Code § 57.1 (definitions, outside counsel contracts)](https://www.law.cornell.edu/regulations/texas/1-Tex-Admin-Code-SS-57-1) | 14 |

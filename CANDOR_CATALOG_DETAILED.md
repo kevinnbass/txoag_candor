@@ -191,11 +191,54 @@ Page 17 cites "Exhibit 4, at pp. 3-17." Exhibit 4 (Doc. 27-4) is HSC OP 77.14, m
 
 ---
 
+<a id="state-27"></a>
+
+### 8. Certified that filings were served at Mr. Bass's email address, while the attached e-filing records show a misspelled one (State-27)
+
+- **Filing:** The State's Notice of Submission, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Mar. 13, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 2
+
+**What the filing says:**
+
+> This will certify that a true and correct copy of the foregoing instrument was served in accordance with Rule 21a of the Texas Rules of Civil Procedure upon the counsel of record below on this 13th day of March 2026.
+
+> Email: kbassphiladelphia@gmail.com
+
+**What the record shows:**
+
+Each filing ends with a certificate signed by the State's lawyer saying it was served under Rule 21a, with Mr. Bass's address given as kbassphiladelphia@gmail.com. Each is followed by the e-filing system's automated certificate, which names the address the system actually used.
+
+- **Notice of Submission (Mar. 13, 2026, 3:42 p.m.):** said the plea would be submitted to the court for consideration without an oral hearing "on March 9, 2026." The system record shows kbassphiladelphi@gmail.com, ERROR (clerk's record page 200).
+- **Amended Notice of Submission (Mar. 13, 2026, 4:40 p.m.):** changed the date to March 19. The system record shows kbassphiladelphi@gmail.com, ERROR (clerk's record page 203).
+- **Reply in support of the plea (Mar. 18, 2026):** the system record shows kbassphiladelphi@gmail.com, SENT (clerk's record page 213).
+- **Response to the new-trial motion (Apr. 14, 2026):** the certificate says "Via E-File and E-Mail." The system record shows kbassphiladelphi@gmail.com, ERROR. The emailed copy in the record was sent on April 15, the next day.
+
+As to the submission notices, the March 18 reply and a proposed order, the State's appeal brief said: "The record establishes that Bass did not receive those documents because they were electronically transmitted to an incorrect email address. ... Appellees do not dispute that fact."
+
+**Evidence:**
+
+- [Notice, p. 1](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-notice-of-submission.pdf#page=1): “will be submitted to the Court for consideration without oral hearing on March 9, 2026, at 9:00 a.m.”
+- [Notice, p. 1 (clerk's file stamp)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-notice-of-submission.pdf#page=1): “Filed 3/13/2026 3:42 PM”
+- [Notice, p. 2 (certificate)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-notice-of-submission.pdf#page=2): “This will certify that a true and correct copy of the foregoing instrument was served in accordance with Rule 21a ... Email: kbassphiladelphia@gmail.com”
+- [Notice, p. 3 (e-filing record)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-notice-of-submission.pdf#page=3): “Kevin N. Bass kbassphiladelphi@gmail.com 3/13/2026 3:42:10 PM ERROR”
+- [Amended notice, p. 1](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-amended-notice-of-submission.pdf#page=1): “on March 19, 2026, at 9:00 a.m.”
+- [Amended notice, p. 1 (clerk's file stamp)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-amended-notice-of-submission.pdf#page=1): “Filed 3/13/2026 4:40 PM”
+- [Amended notice, p. 3 (e-filing record)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-amended-notice-of-submission.pdf#page=3): “Kevin N. Bass kbassphiladelphi@gmail.com 3/13/2026 4:40:34 PM ERROR”
+- [Reply, p. 9 (certificate)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-18-state-defendants-reply-plea-to-jurisdiction.pdf#page=9): “served in accordance with Rule 21a of the Texas Rules of Civil Procedure upon the party of record below on this 18th day of March 2026. ... Email: kbassphiladelphia@gmail.com”
+- [Reply, p. 10 (e-filing record)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-18-state-defendants-reply-plea-to-jurisdiction.pdf#page=10): “kbassphiladelphi@gmail.com ... 3/18/2026 3:29:07 PM ... SENT”
+- [Response, p. 8 (certificate)](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=8): “on this 14th day of April 2026. ... Via E-File and E-Mail”
+- [Response, p. 9 (e-filing record)](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=9): “kbassphiladelphi@gmail.com ... 4/14/2026 3:28:23 PM ... ERROR”
+- [The State's email of Apr. 15, 2026 (Mr. Bass's exhibits, p. 47)](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-23-state-reply-exhibits-a-l.pdf#page=47): “Wed, Apr 15, 2026 at 12:06 PM”
+- [Appeal brief, p. 24](https://case.kevinnbass.com/assets/pdfs/filings/2026-09-23-coa-appellees-brief.pdf#page=24): “Bass's first two issues focus principally on his failure to receive Appellees' reply, the proposed order, and the notices setting the Plea to the Jurisdiction for submission. The record establishes that Bass did not receive those documents because they were electronically transmitted to an incorrect email address.”
+- [Appeal brief, p. 24](https://case.kevinnbass.com/assets/pdfs/filings/2026-09-23-coa-appellees-brief.pdf#page=24): “Appellees do not dispute that fact.”
+
+---
+
 ## Other citation and quotation errors
 
 <a id="state-18"></a>
 
-### 8. Cited a page of a Texas Supreme Court decision for a rule that is not on that page (State-18)
+### 9. Cited a page of a Texas Supreme Court decision for a rule that is not on that page (State-18)
 
 - **Filing:** The State's Plea to the Jurisdiction, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Feb. 9, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 7
@@ -218,7 +261,7 @@ The plea cites *Texas Department of Protective & Regulatory Services v. Mega Chi
 
 <a id="f-12"></a>
 
-### 9. Stated as fact something the complaint does not say, with no source (F-12)
+### 10. Stated as fact something the complaint does not say, with no source (F-12)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 7
@@ -239,7 +282,7 @@ The sentence closes the motion's background section and has no citation. The Fir
 
 <a id="f-04"></a>
 
-### 10. Gave the wrong school year for the student handbook (F-04)
+### 11. Gave the wrong school year for the student handbook (F-04)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 6
@@ -261,7 +304,7 @@ The motion labels Exhibit 9 the "2024-2025" handbook. The exhibit's cover page r
 
 <a id="f-27"></a>
 
-### 11. Cited the wrong subsection of the conduct code (F-27)
+### 12. Cited the wrong subsection of the conduct code (F-27)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 6
@@ -282,9 +325,31 @@ Part II.F.4.n ("Findings and Recommendations") provides that the Chair "will for
 
 ---
 
+<a id="f-88"></a>
+
+### 13. Gave the wrong page number for a Fifth Circuit decision (F-88)
+
+- **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 13
+
+**What the filing says:**
+
+> Van Overdam v. Texas A&M Univ., 43 F.4th 310 (5th Cir. 2022).
+
+**What the record shows:**
+
+The Fifth Circuit's 2022 decision in *Van Overdam v. Texas A&M University* begins at page 522 of volume 43 of the Federal Reporter, Fourth Series. Mr. Bass's First Amended Complaint, which the motion was answering, cites it at that page.
+
+**Evidence:**
+
+- [Motion, p. 13](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=13): “Van Overdam v. Texas A&M Univ., 43 F.4th 310 (5th Cir. 2022).”
+- [First Amended Complaint, p. 15](https://case.kevinnbass.com/assets/pdfs/filings/2025-12-11-dkt14-first-amended-complaint.pdf#page=15): “Van Overdam v. Texas A&M Univ., 43 F.4th 522 (5th Cir. 2022).”
+
+---
+
 <a id="f-74"></a>
 
-### 12. Cited a subsection of a state regulation that does not exist (F-74)
+### 14. Cited a subsection of a state regulation that does not exist (F-74)
 
 - **Filing:** The State's response opposing the motion to disqualify its lawyer (Doc. 50), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Apr. 28, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 13
@@ -306,7 +371,7 @@ Rule 57.1 (Office of the Attorney General, outside counsel contracts) defines te
 
 <a id="state-25"></a>
 
-### 13. Changed a word inside a quotation (State-25)
+### 15. Changed a word inside a quotation (State-25)
 
 - **Filing:** The State's reply in support of its plea, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Mar. 18, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 4

@@ -18,15 +18,17 @@ When lawyers file papers in court, judges rely on them to describe the record ac
 5. [Said Mr. Bass's complaint described something it does not describe](#5-said-mr-basss-complaint-described-something-it-does-not-describe)
 6. [Got the order of two filings backwards, while its own footnote has it right](#6-got-the-order-of-two-filings-backwards-while-its-own-footnote-has-it-right)
 7. [Cited pages of an exhibit that do not exist](#7-cited-pages-of-an-exhibit-that-do-not-exist)
+8. [Certified that filings were served at Mr. Bass's email address, while the attached e-filing records show a misspelled one](#8-certified-that-filings-were-served-at-mr-basss-email-address-while-the-attached-e-filing-records-show-a-misspelled-one)
 
 **Other citation and quotation errors**
 
-8. [Cited a page of a Texas Supreme Court decision for a rule that is not on that page](#8-cited-a-page-of-a-texas-supreme-court-decision-for-a-rule-that-is-not-on-that-page)
-9. [Stated as fact something the complaint does not say, with no source](#9-stated-as-fact-something-the-complaint-does-not-say-with-no-source)
-10. [Gave the wrong school year for the student handbook](#10-gave-the-wrong-school-year-for-the-student-handbook)
-11. [Cited the wrong subsection of the conduct code](#11-cited-the-wrong-subsection-of-the-conduct-code)
-12. [Cited a subsection of a state regulation that does not exist](#12-cited-a-subsection-of-a-state-regulation-that-does-not-exist)
-13. [Changed a word inside a quotation](#13-changed-a-word-inside-a-quotation)
+9. [Cited a page of a Texas Supreme Court decision for a rule that is not on that page](#9-cited-a-page-of-a-texas-supreme-court-decision-for-a-rule-that-is-not-on-that-page)
+10. [Stated as fact something the complaint does not say, with no source](#10-stated-as-fact-something-the-complaint-does-not-say-with-no-source)
+11. [Gave the wrong school year for the student handbook](#11-gave-the-wrong-school-year-for-the-student-handbook)
+12. [Cited the wrong subsection of the conduct code](#12-cited-the-wrong-subsection-of-the-conduct-code)
+13. [Gave the wrong page number for a Fifth Circuit decision](#13-gave-the-wrong-page-number-for-a-fifth-circuit-decision)
+14. [Cited a subsection of a state regulation that does not exist](#14-cited-a-subsection-of-a-state-regulation-that-does-not-exist)
+15. [Changed a word inside a quotation](#15-changed-a-word-inside-a-quotation)
 
 
 ## Said a court decision says something it does not
@@ -157,9 +159,27 @@ These entries are about the documents in the case itself: Mr. Bass's complaint, 
 
 <sub>Entry F-02. Details and evidence: [detailed version](CANDOR_CATALOG_DETAILED.md#f-02).</sub>
 
+### 8. Certified that filings were served at Mr. Bass's email address, while the attached e-filing records show a misspelled one
+
+**In:** The State's Notice of Submission, filed Mar. 13, 2026, page 2.
+
+**What the filing says:**
+
+> This will certify that a true and correct copy of the foregoing instrument was served in accordance with Rule 21a of the Texas Rules of Civil Procedure upon the counsel of record below on this 13th day of March 2026.
+
+> Email: kbassphiladelphia@gmail.com
+
+**What the record shows:** The e-filing system's own record of service is the next page of the same filing. It lists Mr. Bass at kbassphiladelphi@gmail.com, which is missing the last letter, and reports ERROR. The same thing happened on three more State filings: the Amended Notice of Submission, filed 58 minutes later (ERROR); the State's March 18 reply in support of its plea (sent to the misspelled address); and its April 14 response to Mr. Bass's new-trial motion (ERROR). Of the notices, the reply and a proposed order, the State's appeal brief later said: "The record establishes that Bass did not receive those documents because they were electronically transmitted to an incorrect email address."
+
+**Why it matters:** The two notices said when the State's plea would be submitted to the court for consideration without an oral hearing. The first one gave a date, March 9, 2026, that was four days before the notice itself was filed; the amended notice changed it to March 19. Neither notice reached Mr. Bass, and neither did the State's reply.
+
+**Check it yourself:** [Notice, page 2 (certificate)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-notice-of-submission.pdf#page=2) · [Notice, page 3 (e-filing record)](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-notice-of-submission.pdf#page=3) · [Amended notice, page 3](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-13-state-defendants-amended-notice-of-submission.pdf#page=3) · [Reply, page 10](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-18-state-defendants-reply-plea-to-jurisdiction.pdf#page=10) · [Response, page 9](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=9) · [Appeal brief, page 24](https://case.kevinnbass.com/assets/pdfs/filings/2026-09-23-coa-appellees-brief.pdf#page=24)
+
+<sub>Entry State-27. Details and evidence: [detailed version](CANDOR_CATALOG_DETAILED.md#state-27).</sub>
+
 ## Other citation and quotation errors
 
-### 8. Cited a page of a Texas Supreme Court decision for a rule that is not on that page
+### 9. Cited a page of a Texas Supreme Court decision for a rule that is not on that page
 
 **In:** The State's Plea to the Jurisdiction, filed Feb. 9, 2026, page 7.
 
@@ -175,7 +195,7 @@ These entries are about the documents in the case itself: Mr. Bass's complaint, 
 
 <sub>Entry State-18. Details and evidence: [detailed version](CANDOR_CATALOG_DETAILED.md#state-18).</sub>
 
-### 9. Stated as fact something the complaint does not say, with no source
+### 10. Stated as fact something the complaint does not say, with no source
 
 **In:** The State's Motion to Dismiss (Doc. 27), filed Jan. 21, 2026, page 7.
 
@@ -191,7 +211,7 @@ These entries are about the documents in the case itself: Mr. Bass's complaint, 
 
 <sub>Entry F-12. Details and evidence: [detailed version](CANDOR_CATALOG_DETAILED.md#f-12).</sub>
 
-### 10. Gave the wrong school year for the student handbook
+### 11. Gave the wrong school year for the student handbook
 
 **In:** The State's Motion to Dismiss (Doc. 27), filed Jan. 21, 2026, page 6.
 
@@ -205,7 +225,7 @@ These entries are about the documents in the case itself: Mr. Bass's complaint, 
 
 <sub>Entry F-04. Details and evidence: [detailed version](CANDOR_CATALOG_DETAILED.md#f-04).</sub>
 
-### 11. Cited the wrong subsection of the conduct code
+### 12. Cited the wrong subsection of the conduct code
 
 **In:** The State's Motion to Dismiss (Doc. 27), filed Jan. 21, 2026, page 6.
 
@@ -219,7 +239,21 @@ These entries are about the documents in the case itself: Mr. Bass's complaint, 
 
 <sub>Entry F-27. Details and evidence: [detailed version](CANDOR_CATALOG_DETAILED.md#f-27).</sub>
 
-### 12. Cited a subsection of a state regulation that does not exist
+### 13. Gave the wrong page number for a Fifth Circuit decision
+
+**In:** The State's Motion to Dismiss (Doc. 27), filed Jan. 21, 2026, page 13.
+
+**What the filing says:**
+
+> Van Overdam v. Texas A&M Univ., 43 F.4th 310 (5th Cir. 2022).
+
+**What the record shows:** The decision is reported at 43 F.4th 522, not page 310.
+
+**Check it yourself:** [Motion, page 13](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=13) · [Van Overdam v. Texas A&M University, 43 F.4th 522](https://www.courtlistener.com/opinion/7855398/van-overdam-v-texas-a-m-univ/)
+
+<sub>Entry F-88. Details and evidence: [detailed version](CANDOR_CATALOG_DETAILED.md#f-88).</sub>
+
+### 14. Cited a subsection of a state regulation that does not exist
 
 **In:** The State's response opposing the motion to disqualify its lawyer (Doc. 50), filed Apr. 28, 2026, page 13.
 
@@ -233,7 +267,7 @@ These entries are about the documents in the case itself: Mr. Bass's complaint, 
 
 <sub>Entry F-74. Details and evidence: [detailed version](CANDOR_CATALOG_DETAILED.md#f-74).</sub>
 
-### 13. Changed a word inside a quotation
+### 15. Changed a word inside a quotation
 
 **In:** The State's reply in support of its plea, filed Mar. 18, 2026, page 4.
 
