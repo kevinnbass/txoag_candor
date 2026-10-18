@@ -31,6 +31,8 @@ The response opposed Mr. Bass's sworn motion under Tex. R. Civ. P. 306a(5) and h
 
 The misstatements are in the sentences quoted above, which present the cases as rejecting relief for failure to inquire and as imposing a duty to monitor.
 
+The response then draws its conclusion from the three cases: "Under these authorities, Plaintiff's knowledge of the service defect defeats his reliance on Rule 306a." Rule 306a(4) turns on whether, within twenty days after the judgment was signed, a party "neither received the notice" of the judgment "nor acquired actual knowledge of the order."
+
 **Evidence:**
 
 - [Response, p. 3](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=3): “There, the Court held that a party who has knowledge of facts that would prompt a reasonable inquiry cannot rely on Rule 306a to extend deadlines.”
@@ -38,6 +40,8 @@ The misstatements are in the sentences quoted above, which present the cases as 
 - [Gillis](https://www.courtlistener.com/opinion/1730626/): “There is nothing in the record to indicate that Gillis sustained her burden of proving to the trial court that she had no notice or knowledge of the order dismissing her cause within twenty days of its rendition.”
 - [Lynd](https://www.courtlistener.com/opinion/894734/): “In this mandamus action, we consider whether a court may imply the date on which a complaining party received late notice of judgment from an order granting a motion to extend post-judgment deadlines”
 - [John](https://www.courtlistener.com/opinion/1773194/): “but not that the appeal was untimely perfected. Accordingly, we reverse the judgment of the court of appeals and remand the case to that court for consideration of the merits.”
+- [Response, p. 4](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=4): “Under these authorities, Plaintiff’s knowledge of the service defect defeats his reliance on Rule 306a.”
+- [Tex. R. Civ. P. 306a(4)](https://www.txcourts.gov/rules-forms/rules-standards/): “has neither received the notice required by paragraph (3) of this rule nor acquired actual knowledge of the order”
 
 ---
 
@@ -101,11 +105,232 @@ The response cites *In re Dresser Industries, Inc.*, 972 F.2d 540, 543 (5th Cir.
 
 ---
 
+<a id="s-07"></a>
+
+### 4. Cited a Texas Supreme Court decision for a rule it does not contain (S-07)
+
+- **Filing:** The State's response opposing Mr. Bass's motion for a new trial, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Apr. 14, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 6
+
+**What the filing says:**
+
+> Texas courts do not grant new trial motions based on mere dissatisfaction with the outcome, absent a showing that the complained-of error probably caused an improper judgment. See Strackbein v. Prewitt, 671 S.W.2d 37, 38 (Tex. 1984)
+
+**What the record shows:**
+
+The response cites *Strackbein v. Prewitt*, 671 S.W.2d 37, 38 (Tex. 1984), with a parenthetical saying the case recognizes that a motion for new trial "is addressed to the trial court's discretion and requires a sufficient showing under governing standards." The next sentence of the response is: "Without a showing of harm, there is no basis to set aside the Court's Order."
+
+*Strackbein* does say that a motion for new trial is addressed to the trial court's discretion, and adds that "it is not an unbridled discretion." It applies the test in *Craddock v. Sunshine Bus Lines* for setting aside a default judgment and concludes: "If the motion and affidavits meet those requirements, a new trial should be granted. In this case those requirements have been met." The phrases "probably caused" and "improper judgment" do not appear in the opinion.
+
+**Evidence:**
+
+- [Response, p. 6](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=6): “absent a showing that the complained-of error probably caused an improper judgment. See Strackbein v. Prewitt, 671 S.W.2d 37, 38 (Tex. 1984)”
+- [Response, p. 6](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=6): “Without a showing of harm, there is no basis to set aside the Court’s Order.”
+- [Strackbein v. Prewitt, 671 S.W.2d at 38-39](https://www.courtlistener.com/opinion/2367100/): “it is not an unbridled discretion”
+- [Strackbein v. Prewitt, 671 S.W.2d at 39](https://www.courtlistener.com/opinion/2367100/): “If the motion and affidavits meet those requirements, a new trial should be granted. In this case those requirements have been met.”
+
+---
+
+<a id="f-20-f-86"></a>
+
+### 5. Described a ruling on a request for a preliminary injunction as a ruling that the university acted lawfully (F-20/F-86)
+
+- **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** pages 14 and 19
+
+**What the filing says:**
+
+> For example, in Esfeller v. O’Keefe, the Fifth Circuit held that the university’s Code of Conduct that limited speech that “intrudes upon … the rights of other students,” was not facially unconstitutional under Tinker.
+
+> see also Esfeller v. O’Keefe, 391 F. App’x 337 (5th Cir. 2010) (holding that a state university which held a hearing in a student’s absence and barred his attorney from observing or participating in the hearing was nevertheless compliant with procedural due process
+
+**What the record shows:**
+
+The motion describes *Esfeller v. O'Keefe*, 391 F. App'x 337 (5th Cir. 2010), twice as a decision on the merits: on page 14 as "holding" that a university's hearing "was nevertheless compliant with procedural due process," and on page 19 as holding that the university's code "was not facially unconstitutional."
+
+The opinion reviews the denial of a preliminary injunction. It says the evidence supported "the district court's determination that Esfeller was unlikely to succeed on the merits of showing a due process violation," and ends: "we AFFIRM the district court's order denying preliminary injunctive relief."
+
+**Evidence:**
+
+- [Motion, p. 14](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=14): “holding that a state university which held a hearing in a student’s absence and barred his attorney from observing or participating in the hearing was nevertheless compliant with procedural due process”
+- [Motion, p. 19](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=19): “the Fifth Circuit held that the university’s Code of Conduct that limited speech that “intrudes upon … the rights of other students,” was not facially unconstitutional under Tinker.”
+- [Esfeller v. O'Keefe, 391 F. App'x 337](https://www.courtlistener.com/opinion/8508154/): “support the district court’s determination that Esfeller was unlikely to succeed on the merits of showing a due process violation”
+- [Esfeller v. O'Keefe, 391 F. App'x 337](https://www.courtlistener.com/opinion/8508154/): “we AFFIRM the district court’s order denying preliminary injunctive relief”
+
+---
+
+<a id="f-31-f-66"></a>
+
+### 6. Cited a case for a rule it does not state; in that case the plaintiffs had added a new theory (F-31/F-66)
+
+- **Filing:** The State's response opposing Mr. Bass's motion to amend (Doc. 48), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Apr. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 4
+
+**What the filing says:**
+
+> Courts routinely deny leave under these circumstances, where a plaintiff acknowledges that no new legal theories are asserted and instead attempts to repackage the same claims in a revised format. See Rosenzweig v. Azurix Corp., 332 F.3d 854, 864 (5th Cir. 2003). That concession is dispositive.
+
+**What the record shows:**
+
+The response says twice that Mr. Bass's statement that he was not adding new legal theories decides the motion ("That concession is decisive," page 1; "That concession is dispositive," page 4), and cites *Rosenzweig v. Azurix Corp.*, 332 F.3d 854, 864 (5th Cir. 2003).
+
+In *Rosenzweig* the plaintiffs asked to amend only after their case was dismissed. They offered new facts and "a new theory," and admitted they had "deliberately chose[n] to delay amending." The court upheld the denial for those reasons. The opinion does not say that an amendment keeping the same legal theories should be denied for that reason.
+
+**Evidence:**
+
+- [Response, p. 4](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-21-dkt48-defendants-response-in-opposition.pdf#page=4): “where a plaintiff acknowledges that no new legal theories are asserted and instead attempts to repackage the same claims in a revised format. See Rosenzweig v. Azurix Corp., 332 F.3d 854, 864 (5th Cir. 2003). That concession is dispositive.”
+- [Response, p. 1](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-21-dkt48-defendants-response-in-opposition.pdf#page=1): “Plaintiff concedes that he is not asserting new legal theories and instead reorganizes the same claims already at issue. That concession is decisive.”
+- [Rosenzweig v. Azurix Corp., 332 F.3d 854](https://www.courtlistener.com/opinion/31529/): “After dismissal, plaintiffs moved the district court to alter or amend the judgment, and for leave to amend their complaint.”
+- [Rosenzweig v. Azurix Corp., 332 F.3d 854](https://www.courtlistener.com/opinion/31529/): “plaintiffs introduce a new theory”
+- [Rosenzweig v. Azurix Corp., 332 F.3d 854](https://www.courtlistener.com/opinion/31529/): “Plaintiffs admit they deliberately chose to delay amending their complaint”
+
+---
+
+<a id="f-79-f-84-f-48-f-71"></a>
+
+### 7. Cited three Fifth Circuit decisions for words and rules they do not contain (F-79/F-84/F-48/F-71)
+
+- **Filing:** The State's response opposing the motion to disqualify its lawyer (Doc. 50), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Apr. 28, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** pages 3, 4, 5, 6 and 9
+
+**What the filing says:**
+
+> The Fifth Circuit has made clear that these rules are relevant but not controlling standards that “do not create substantive rights” enforceable by opposing parties. U.S. Fire Ins. Co., 50 F.3d at 1313–14.
+
+> Subsequent Fifth Circuit authority clarifies that disqualification requires a specifically identifiable conflict that threatens the integrity of the proceeding, not generalized concerns or abstract notions of impropriety. American Airlines, 972 F.2d at 611; Dresser, 972 F.2d at 543.
+
+> American Airlines, 972 F.2d at 611 (recognizing legitimacy of coordinated representation absent actual conflict).
+
+> but on whether counsel’s representation is presently and materially limited by conflicting duties. See Dresser, 972 F.2d at 543.
+
+**What the record shows:**
+
+These are more sentences in the same response as entries 2 and 3.
+
+- **Pages 3, 4 and 6:** the Texas Disciplinary Rules "do not create substantive rights enforceable by opposing parties," citing *FDIC v. U.S. Fire Insurance Co.*, 50 F.3d 1304, 1313-14 (5th Cir. 1995). On pages 4 and 6 the words "do not create substantive rights" are inside quotation marks. The opinion does not contain them. It says "It is generally proper for an opposing party to bring conflict of interest matters to the attention of the court," and it upheld the order granting the opposing party's motion to disqualify one of the FDIC's lawyers: "the district court properly granted U.S. Fire's motion to disqualify Hurt."
+- **Page 5:** disqualification "requires a specifically identifiable conflict that threatens the integrity of the proceeding," citing *In re American Airlines*, 972 F.2d 605, 611 (5th Cir. 1992), and *In re Dresser*. *American Airlines* rejected the argument that a former client must show the lawyer's involvement "threatens to taint the trial": "We reject both of Northwest's arguments."
+- **Page 9:** *American Airlines* at 611 is cited as "recognizing legitimacy of coordinated representation absent actual conflict." The opinion does not contain the words "coordinated" or "legitimacy."
+- **Page 9:** disqualification turns on whether representation "is presently and materially limited," citing *Dresser*, 972 F.2d at 543. *Dresser* does not use the word "presently." The rule it quotes bars representation that "may be materially limited by the lawyer's responsibilities to another client."
+
+**Evidence:**
+
+- [Response, p. 3](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-28-dkt50-defendants-response-motion-to-disqualify.pdf#page=3): “the Texas Disciplinary Rules are “guidelines” that do not create substantive rights enforceable by opposing parties. U.S. Fire Ins. Co., 50 F.3d at 1313–14.”
+- [Response, p. 4](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-28-dkt50-defendants-response-motion-to-disqualify.pdf#page=4): “The Fifth Circuit has made clear that these rules are relevant but not controlling standards that “do not create substantive rights” enforceable by opposing parties. U.S. Fire Ins. Co., 50 F.3d at 1313–14.”
+- [Response, p. 6](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-28-dkt50-defendants-response-motion-to-disqualify.pdf#page=6): “The Fifth Circuit has made equally clear that the disciplinary rules “do not create substantive rights” enforceable by opposing parties. U.S. Fire Ins. Co., 50 F.3d at 1313–14.”
+- [Response, p. 5](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-28-dkt50-defendants-response-motion-to-disqualify.pdf#page=5): “disqualification requires a specifically identifiable conflict that threatens the integrity of the proceeding”
+- [Response, p. 9](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-28-dkt50-defendants-response-motion-to-disqualify.pdf#page=9): “American Airlines, 972 F.2d at 611 (recognizing legitimacy of coordinated representation absent actual conflict).”
+- [Response, p. 9](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-28-dkt50-defendants-response-motion-to-disqualify.pdf#page=9): “whether counsel’s representation is presently and materially limited by conflicting duties. See Dresser, 972 F.2d at 543.”
+- [FDIC v. U.S. Fire Insurance Co., 50 F.3d 1304](https://www.courtlistener.com/opinion/7033/): “It is generally proper for an opposing party to bring conflict of interest matters to the attention of the court.”
+- [FDIC v. U.S. Fire Insurance Co., 50 F.3d 1304](https://www.courtlistener.com/opinion/7033/): “the district court properly granted U.S. Fire's motion to disqualify Hurt.”
+- [In re American Airlines, 972 F.2d 605](https://www.courtlistener.com/opinion/588825/): “We reject both of Northwest’s arguments. A party seeking to disqualify counsel under the substantial relationship test need not prove that the past and present matters are so similar that a lawyer’s continued involvement threatens to taint the trial.”
+- [In re Dresser Industries, 972 F.2d 540](https://www.courtlistener.com/opinion/588818/): “A lawyer shall not represent a client if the representation of that client may be materially limited by the lawyer's responsibilities to another client”
+
+---
+
+<a id="f-89"></a>
+
+### 8. Said a state law does not deal with the Attorney General's role in lawsuits or with conflicts of interest, when it does both (F-89)
+
+- **Filing:** The State's response opposing the motion to disqualify its lawyer (Doc. 50), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Apr. 28, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 2
+
+**What the filing says:**
+
+> Those authorities address indemnification and liability allocation—not litigation authority or conflicts of interest. See Tex. Civ. Prac. & Rem. Code §§ 104.001–.004, 108.001; Tex. Att’y Gen. Op. DM-0409 (1996).
+
+**What the record shows:**
+
+The response cites Chapter 104 of the Texas Civil Practice and Remedies Code, sections 104.001 through 104.004, and says those provisions concern indemnification "not litigation authority or conflicts of interest."
+
+Section 104.004 reads: "(a) The attorney general shall defend a public servant or estate listed in Section 104.001 in a cause of action covered by this chapter. ... (c) It is not a conflict of interest for the attorney general to defend a person under this chapter and also to prosecute a legal action against that person as required or authorized by law if different assistant attorneys general are assigned the responsibility for each action."
+
+**Evidence:**
+
+- [Response, p. 2](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-28-dkt50-defendants-response-motion-to-disqualify.pdf#page=2): “Those authorities address indemnification and liability allocation—not litigation authority or conflicts of interest. See Tex. Civ. Prac. & Rem. Code §§ 104.001–.004”
+- [Tex. Civ. Prac. & Rem. Code § 104.004(a)](https://statutes.capitol.texas.gov/Docs/CP/htm/CP.104.htm#104.004): “The attorney general shall defend a public servant or estate listed in Section 104.001 in a cause of action covered by this chapter.”
+- [Tex. Civ. Prac. & Rem. Code § 104.004(c)](https://statutes.capitol.texas.gov/Docs/CP/htm/CP.104.htm#104.004): “It is not a conflict of interest for the attorney general to defend a person under this chapter and also to prosecute a legal action against that person”
+
+---
+
+<a id="s-03"></a>
+
+### 9. Said the Supreme Court held something it did not hold, then made the argument that decision rejects (S-03)
+
+- **Filing:** The State's response opposing Mr. Bass's motion for a new trial, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Apr. 14, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 5
+
+**What the filing says:**
+
+> The United States Supreme Court has held that due process is satisfied where a party is afforded a meaningful opportunity to present his case. See Peralta v. Heights Med. Ctr., Inc., 485 U.S. 80, 84–86 (1988).
+
+**What the record shows:**
+
+The response cites *Peralta*, 485 U.S. 80, 84-86 (1988), to answer Mr. Bass's argument that he never received the notice of submission or the State's reply. On the next page it argues: "Without a showing of harm, there is no basis to set aside the Court's Order."
+
+At the cited pages *Peralta* says that "a judgment entered without notice or service is constitutionally infirm," that due process requires "notice reasonably calculated, under the circumstances, to apprise interested parties of the pendency of the action and afford them the opportunity to present their objections," and that "it is no answer to say that in his particular case due process of law would have led to the same result because he had no adequate defense upon the merits."
+
+**Evidence:**
+
+- [Response, p. 5](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=5): “The United States Supreme Court has held that due process is satisfied where a party is afforded a meaningful opportunity to present his case. See Peralta v. Heights Med. Ctr., Inc., 485 U.S. 80, 84–86 (1988).”
+- [Response, p. 6](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-14-state-defendants-response-motion-for-new-trial.pdf#page=6): “Without a showing of harm, there is no basis to set aside the Court’s Order.”
+- [Peralta v. Heights Medical Center, 485 U.S. at 84](https://www.courtlistener.com/opinion/112014/): “a judgment entered without notice or service is constitutionally infirm”
+- [Peralta v. Heights Medical Center, 485 U.S. at 84](https://www.courtlistener.com/opinion/112014/): “notice reasonably calculated, under the circumstances, to apprise interested parties of the pendency of the action and afford them the opportunity to present their objections”
+- [Peralta v. Heights Medical Center, 485 U.S. at 86-87](https://www.courtlistener.com/opinion/112014/): “it is no answer to say that in his particular case due process of law would have led to the same result because he had no adequate”
+
+---
+
+<a id="f-38"></a>
+
+### 10. Cited a Fifth Circuit decision for a standing rule it does not state (F-38)
+
+- **Filing:** The State's response opposing the motion to disqualify its lawyer (Doc. 50), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Apr. 28, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 5
+
+**What the filing says:**
+
+> A non-client movant must demonstrate a concrete, particularized risk that the alleged conflict will prejudice the fairness of the proceedings—not merely that interests could diverge in theory. Horaist, 255 F.3d at 266.
+
+**What the record shows:**
+
+In *Horaist* the defendants moved to disqualify the plaintiff's lawyer because he might be a witness. The court found they "failed to articulate how Toce's corroboration would prejudice Horaist," his own client, and noted that "If a lawyer must testify adversely to a client's interest, the client cannot waive the conflict." The opinion does not set out a general standing test for a movant who is not the lawyer's client.
+
+**Evidence:**
+
+- [Response, p. 5](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-28-dkt50-defendants-response-motion-to-disqualify.pdf#page=5): “A non-client movant must demonstrate a concrete, particularized risk that the alleged conflict will prejudice the fairness of the proceedings”
+- [Horaist v. Doctor's Hospital, 255 F.3d 261](https://www.courtlistener.com/opinion/24456/): “defendants have failed to articulate how Toce’s corroboration would prejudice”
+- [Horaist v. Doctor's Hospital, 255 F.3d 261](https://www.courtlistener.com/opinion/24456/): “If a lawyer must testify adversely to a”
+
+---
+
+<a id="f-10"></a>
+
+### 11. Cited a Fifth Circuit decision for a requirement it does not impose, contradicting the motion's own description of the rule (F-10)
+
+- **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 15
+
+**What the filing says:**
+
+> Plaintiff also fails to plead a separate “plus” deprivation independent of the disciplinary action itself, which cannot serve as both the alleged stigma and the required alteration of legal status. See Blackburn v. City of Marshall, 42 F.3d 925, 936 (5th Cir. 1995).
+
+**What the record shows:**
+
+In *Hughes v. City of Garland* the discharge is the change in legal status, and the false charges made in connection with it are the stigma: a liberty interest "is implicated only if an employee is discharged in a manner that creates a false and defamatory impression about him." Neither *Hughes* nor *Blackburn* requires a second deprivation separate from the dismissal itself.
+
+**Evidence:**
+
+- [Motion, p. 15](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=15): “Plaintiff also fails to plead a separate “plus” deprivation independent of the disciplinary action itself, which cannot serve as both the alleged stigma and the required alteration of legal status. See Blackburn v. City of Marshall, 42 F.3d 925, 936 (5th Cir. 1995).”
+- [Motion, p. 15](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=15): “stigma-plus requires publication of false and stigmatizing charges in connection with a change of legal status”
+- [Blackburn v. City of Marshall, 42 F.3d at 936](https://www.courtlistener.com/opinion/684369/): “stigma plus an infringement of some other interest”
+- [Hughes v. City of Garland, 204 F.3d 223](https://www.courtlistener.com/opinion/19822/): “a constitutionally protected liberty interest is implicated only if an employee is discharged in a manner that creates a false and defamatory impression about him”
+
+---
+
 ## Got the court record wrong
 
 <a id="f-03"></a>
 
-### 4. Said a November 9 letter raised a charge that first appeared on November 16 (F-03)
+### 12. Said a November 9 letter raised a charge that first appeared on November 16 (F-03)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 3, footnote 2
@@ -128,7 +353,7 @@ Footnote 2 calls the November 9 letter a "Hearing Notice" and says it informed M
 
 <a id="f-01"></a>
 
-### 5. Said Mr. Bass's complaint described something it does not describe (F-01)
+### 13. Said Mr. Bass's complaint described something it does not describe (F-01)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 16, footnote 5
@@ -149,7 +374,7 @@ Footnote 5 describes what "[t]he Complaint references," including "crude persona
 
 <a id="f-87"></a>
 
-### 6. Got the order of two filings backwards, while its own footnote has it right (F-87)
+### 14. Got the order of two filings backwards, while its own footnote has it right (F-87)
 
 - **Filing:** The State's response opposing leave to amend (Doc. 39), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Mar. 9, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 3
@@ -171,7 +396,7 @@ Section II.B states that Mr. Bass sought leave to file a Second Amended Complain
 
 <a id="f-02"></a>
 
-### 7. Cited pages of an exhibit that do not exist (F-02)
+### 15. Cited pages of an exhibit that do not exist (F-02)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 17
@@ -193,7 +418,7 @@ Page 17 cites "Exhibit 4, at pp. 3-17." Exhibit 4 (Doc. 27-4) is HSC OP 77.14, m
 
 <a id="state-27"></a>
 
-### 8. Certified that filings were served at Mr. Bass's email address, while the attached e-filing records show a misspelled one (State-27)
+### 16. Certified that filings were served at Mr. Bass's email address, while the attached e-filing records show a misspelled one (State-27)
 
 - **Filing:** The State's Notice of Submission, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Mar. 13, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 2
@@ -234,11 +459,149 @@ As to the submission notices, the March 18 reply and a proposed order, the State
 
 ---
 
+<a id="f-07"></a>
+
+### 17. Said Mr. Bass's complaint did not identify the speech at issue, when it names and describes the post (F-07)
+
+- **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 16
+
+**What the filing says:**
+
+> Here, Plaintiff’s own pleading fails to identify with any specificity what speech allegedly triggered the challenged disciplinary actions.
+
+**What the record shows:**
+
+The motion says the complaint "relies on vague references to 'posts'" and cites paragraphs 32-33A. Paragraph 31A, just before the cited range, names the post by date, calls it the catalyst for Mr. Bass's removal and describes what it said and did not say.
+
+**Evidence:**
+
+- [Motion, p. 16](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=16): “Plaintiff’s own pleading fails to identify with any specificity what speech allegedly triggered the challenged disciplinary actions.”
+- [Motion, p. 16](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=16): “Plaintiff affirmatively pleads that the conduct at issue included a mortality-themed social media post”
+- [First Amended Complaint, p. 8 (¶ 31A)](https://case.kevinnbass.com/assets/pdfs/filings/2025-12-11-dkt14-first-amended-complaint.pdf#page=8): “Plaintiff's November 3, 2023 social-media post—the catalyst for the Emergency Removal and Criminal Trespass Warning—was a short philosophical reflection on mortality”
+
+---
+
+<a id="f-57"></a>
+
+### 18. Said Mr. Bass did not allege that online backlash came from the defendants, when his complaint does (F-57)
+
+- **Filing:** The State's reply in support of its Motion to Dismiss (Doc. 38), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Mar. 2, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 6
+
+**What the filing says:**
+
+> any “online backlash” Plaintiff received was clearly due to his ... commentary as Plaintiff does not allege that the “backlash” originated from the Defendants.
+
+**What the record shows:**
+
+The reply cites paragraph 33A of the complaint, which describes backlash to Mr. Bass's own commentary. The next paragraphs, 34B and 34C, allege a second source: the narrative drawn from records TTUHSC disseminated, which the complaint says was amplified in online harassment.
+
+**Evidence:**
+
+- [Reply, p. 6](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-02-dkt38-defendants-reply-motion-to-dismiss.pdf#page=6): “any “online backlash” Plaintiff received was clearly due to his”
+- [Reply, p. 7](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-02-dkt38-defendants-reply-motion-to-dismiss.pdf#page=7): “commentary as Plaintiff does not allege that the “backlash” originated from the Defendants.”
+- [First Amended Complaint, p. 10 (¶ 34B)](https://case.kevinnbass.com/assets/pdfs/filings/2025-12-11-dkt14-first-amended-complaint.pdf#page=10): “alleges that it flows directly from the challenged cluster of education record entries maintained and disseminated by TTUHSC”
+- [First Amended Complaint, p. 10 (¶ 34C)](https://case.kevinnbass.com/assets/pdfs/filings/2025-12-11-dkt14-first-amended-complaint.pdf#page=10): “has been echoed and amplified in online harassment”
+
+---
+
+<a id="f-19-f-85"></a>
+
+### 19. Said that dropping a request for a temporary order defeated Mr. Bass's standing to ask for lasting relief (F-19/F-85)
+
+- **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 10
+
+**What the filing says:**
+
+> This withdrawal confirms that Plaintiff does not allege a real and immediate threat of future injury—as required for injunctive relief— and independently defeats standing for prospective relief under Article III and Ex parte Young.
+
+**What the record shows:**
+
+Footnote 4 of the motion reports that Mr. Bass said he "is not seeking a TRO or a preliminary injunction at this time," and concludes that this "independently defeats standing for prospective relief." A temporary restraining order and a preliminary injunction are interim orders while a case is pending. The complaint's request for lasting prospective relief (paragraph 2) remained in the case.
+
+**Evidence:**
+
+- [Motion, p. 10, n. 4](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=10): “Plaintiff further stated that he “is not seeking a TRO or a preliminary injunction at this time””
+- [Motion, p. 10, n. 4](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=10): “independently defeats standing for prospective relief under Article III and Ex parte Young.”
+- [First Amended Complaint, p. 3 (¶ 2)](https://case.kevinnbass.com/assets/pdfs/filings/2025-12-11-dkt14-first-amended-complaint.pdf#page=3): “prospective relief under Title II of the ADA against appropriate officials pursuant to Ex parte Young”
+
+---
+
+<a id="f-37"></a>
+
+### 20. Called sovereign immunity an absolute bar to damages, though the State's own motion said Congress conditioned a waiver for one of Mr. Bass's claims (F-37)
+
+- **Filing:** The State's response opposing Mr. Bass's motion to amend (Doc. 48), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Apr. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 4
+
+**What the filing says:**
+
+> TTUHSC’s status as an arm of the State of Texas implicates sovereign immunity, which bars claims for damages against the institution and against officials in their official capacities. That jurisdictional bar does not turn on factual detail and cannot be circumvented through repleading.
+
+**What the record shows:**
+
+The response describes sovereign immunity as a bar to damages claims against TTUHSC that "cannot be circumvented through repleading." The State's own motion to dismiss (page 20) recognizes a waiver for "certain § 504 claims," and argued instead that § 504 damages require intentional discrimination. The complaint (paragraph 2) seeks "damages and declaratory relief under § 504 of the Rehabilitation Act against TTUHSC as a federal funds recipient."
+
+**Evidence:**
+
+- [Response, p. 4](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-21-dkt48-defendants-response-in-opposition.pdf#page=4): “sovereign immunity, which bars claims for damages against the institution and against officials in their official capacities. That jurisdictional bar does not turn on factual detail and cannot be circumvented through repleading.”
+- [Motion to Dismiss, p. 20](https://case.kevinnbass.com/assets/pdfs/filings/Defendants_Motion_to_Dismiss.pdf#page=20): “Although Congress has conditioned receipt of federal funds on a waiver of sovereign immunity for certain § 504 claims”
+- [First Amended Complaint, p. 3 (¶ 2)](https://case.kevinnbass.com/assets/pdfs/filings/2025-12-11-dkt14-first-amended-complaint.pdf#page=3): “damages and declaratory relief under § 504 of the Rehabilitation Act against TTUHSC as a federal funds recipient”
+
+---
+
+<a id="f-91"></a>
+
+### 21. Said Mr. Bass's own allegations showed he deliberately chose not to sue Dr. Trotter, when his proposed complaint says the omission was inadvertent (F-91)
+
+- **Filing:** The State's response opposing Mr. Bass's renewed motion to amend (Doc. 58), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Aug. 5, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 11
+
+**What the filing says:**
+
+> By his own allegations, Plaintiff was aware of Dr. Trotter’s identity and his role in the underlying events when this action was filed, yet deliberately chose not to name him as a defendant.
+
+**What the record shows:**
+
+The response quotes *Krupski v. Costa Crociere* on a "fully informed" choice not to sue, then says Mr. Bass's "own allegations" show such a choice. His proposed complaint alleges an inadvertent omission.
+
+**Evidence:**
+
+- [Response, p. 11](https://case.kevinnbass.com/assets/pdfs/filings/2026-08-05-dkt58-defendants-response.pdf#page=11): “By his own allegations, Plaintiff was aware of Dr. Trotter’s identity and his role in the underlying events when this action was filed, yet deliberately chose not to name him as a defendant.”
+- [Proposed amended complaint, p. 3](https://case.kevinnbass.com/assets/pdfs/filings/2026-07-28-proposed-second-amended-complaint.pdf#page=3): “Defendant Trotter was identified by name and role in Plaintiff's December 11, 2025 pleading but was inadvertently omitted from the caption and defendant list.”
+
+---
+
+<a id="f-90"></a>
+
+### 22. Said the magistrate judge found only legal defects that no added facts could cure, when the recommendation also points to missing facts (F-90)
+
+- **Filing:** The State's response opposing Mr. Bass's renewed motion to amend (Doc. 58), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Aug. 5, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 2
+
+**What the filing says:**
+
+> Those are legal defects, not gaps in a factual narrative, and no quantum of additional or restored detail can cure them.
+
+**What the record shows:**
+
+The response describes the magistrate judge's recommendation (Doc. 54) as resting on "jurisdictional, immunity, standing, and clearly-established-law deficiencies," and says those are "not gaps in a factual narrative." In its discussion of the proposed amendment, the recommendation also faults missing factual allegations, including the two quoted below.
+
+**Evidence:**
+
+- [Response, p. 2](https://case.kevinnbass.com/assets/pdfs/filings/2026-08-05-dkt58-defendants-response.pdf#page=2): “the proposed complaint still failed to overcome the jurisdictional, immunity, standing, and clearly-established-law deficiencies governing Plaintiff’s claims. (Doc. 54 at 56–57). Those are legal defects, not gaps in a factual narrative, and no quantum of additional or restored detail can cure them.”
+- [Recommendation, p. 47](https://case.kevinnbass.com/assets/pdfs/filings/2026-07-14-dkt54-findings-conclusions-recommendation.pdf#page=47): “Bass does not specify what accommodations he allegedly requested either from SDS or on the morning of his disciplinary hearing.”
+- [Recommendation, p. 53](https://case.kevinnbass.com/assets/pdfs/filings/2026-07-14-dkt54-findings-conclusions-recommendation.pdf#page=53): “Bass does not allege, for example, that Gibson’s salary was contingent upon a particular outcome”
+
+---
+
 ## Other citation and quotation errors
 
 <a id="state-18"></a>
 
-### 9. Cited a page of a Texas Supreme Court decision for a rule that is not on that page (State-18)
+### 23. Cited a page of a Texas Supreme Court decision for a rule that is not on that page (State-18)
 
 - **Filing:** The State's Plea to the Jurisdiction, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Feb. 9, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 7
@@ -261,7 +624,7 @@ The plea cites *Texas Department of Protective & Regulatory Services v. Mega Chi
 
 <a id="f-12"></a>
 
-### 10. Stated as fact something the complaint does not say, with no source (F-12)
+### 24. Stated as fact something the complaint does not say, with no source (F-12)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 7
@@ -282,7 +645,7 @@ The sentence closes the motion's background section and has no citation. The Fir
 
 <a id="f-04"></a>
 
-### 11. Gave the wrong school year for the student handbook (F-04)
+### 25. Gave the wrong school year for the student handbook (F-04)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 6
@@ -304,7 +667,7 @@ The motion labels Exhibit 9 the "2024-2025" handbook. The exhibit's cover page r
 
 <a id="f-27"></a>
 
-### 12. Cited the wrong subsection of the conduct code (F-27)
+### 26. Cited the wrong subsection of the conduct code (F-27)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 6
@@ -327,7 +690,7 @@ Part II.F.4.n ("Findings and Recommendations") provides that the Chair "will for
 
 <a id="f-88"></a>
 
-### 13. Gave the wrong page number for a Fifth Circuit decision (F-88)
+### 27. Gave the wrong page number for a Fifth Circuit decision (F-88)
 
 - **Filing:** The State's Motion to Dismiss (Doc. 27), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Jan. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 13
@@ -349,7 +712,7 @@ The Fifth Circuit's 2022 decision in *Van Overdam v. Texas A&M University* begin
 
 <a id="f-74"></a>
 
-### 14. Cited a subsection of a state regulation that does not exist (F-74)
+### 28. Cited a subsection of a state regulation that does not exist (F-74)
 
 - **Filing:** The State's response opposing the motion to disqualify its lawyer (Doc. 50), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Apr. 28, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 13
@@ -371,7 +734,7 @@ Rule 57.1 (Office of the Attorney General, outside counsel contracts) defines te
 
 <a id="state-25"></a>
 
-### 15. Changed a word inside a quotation (State-25)
+### 29. Changed a word inside a quotation (State-25)
 
 - **Filing:** The State's reply in support of its plea, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Mar. 18, 2026). Signed by Assistant Attorney General Scott D. Smith.
 - **Where:** page 4
@@ -388,5 +751,146 @@ Rule 57.1 (Office of the Attorney General, outside counsel contracts) defines te
 
 - [Reply, p. 4](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-18-state-defendants-reply-plea-to-jurisdiction.pdf#page=4): “with such certainty that nothing is left to the exercise of discretion.”
 - [Anderson](https://www.courtlistener.com/opinion/1519282/): “An act is ministerial when the law clearly spells out the duty to be performed by the official with sufficient certainty that nothing is left to the exercise of discretion.”
+
+---
+
+<a id="state-16"></a>
+
+### 30. Put a word in quotation marks that the cited Texas Supreme Court decision does not use (State-16)
+
+- **Filing:** The State's Plea to the Jurisdiction, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Feb. 9, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 5
+
+**What the filing says:**
+
+> However, that exception is “narrow” and carefully circumscribed. See id.
+
+**What the record shows:**
+
+The plea cites *City of El Paso v. Heinrich*, 284 S.W.3d 366, 372-73 (Tex. 2009), then describes the ultra vires exception as "narrow," in quotation marks, with "See id." The opinion describes the exception as requiring that an officer "acted without legal authority or failed to perform a purely ministerial act"; it does not call it "narrow."
+
+**Evidence:**
+
+- [Plea, p. 5](https://case.kevinnbass.com/assets/pdfs/filings/2026-02-09-state-defendants-plea-to-jurisdiction.pdf#page=5): “See City of El Paso v. Heinrich, 284 S.W.3d 366, 372-73 (Tex. 2009).”
+- [Plea, p. 5](https://case.kevinnbass.com/assets/pdfs/filings/2026-02-09-state-defendants-plea-to-jurisdiction.pdf#page=5): “However, that exception is “narrow” and carefully circumscribed. See id.”
+- [City of El Paso v. Heinrich, 284 S.W.3d 366](https://www.courtlistener.com/opinion/895110/): “the officer acted without legal authority or failed to perform a purely ministerial act”
+
+---
+
+<a id="f-34"></a>
+
+### 31. Changed a word inside a quotation from a Supreme Court decision (F-34)
+
+- **Filing:** The State's response opposing Mr. Bass's motion to amend (Doc. 48), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Apr. 21, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 7
+
+**What the filing says:**
+
+> resolved “at the earliest possible stage of litigation.” Pearson v. Callahan, 555 U.S. 223, 231–32
+
+**What the record shows:**
+
+The quotation changes "in" to "of" without marking the change.
+
+**Evidence:**
+
+- [Response, p. 7](https://case.kevinnbass.com/assets/pdfs/filings/2026-04-21-dkt48-defendants-response-in-opposition.pdf#page=7): “resolved “at the earliest possible stage of litigation.” Pearson v. Callahan, 555 U.S. 223, 231–32”
+- [Pearson v. Callahan, 555 U.S. 223](https://www.courtlistener.com/opinion/145918/): “at the earliest possible stage in litigation”
+
+---
+
+<a id="state-17-state-28"></a>
+
+### 32. Cited the same wrong page of a Texas appeals decision in two filings (State-17/State-28)
+
+- **Filing:** The State's Plea to the Jurisdiction, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Feb. 9, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 6
+
+**What the filing says:**
+
+> see also Alcorn v. Vaksman, 877 S.W.2d 390, 403 (Tex. App.—Houston [1st Dist.] 1994, writ denied) (courts defer to academic judgments absent arbitrary or capricious action).
+
+**What the record shows:**
+
+The plea (page 6) cites *Alcorn* at 403 for deference to academic judgments. The reply (page 5) cites the same page for the statement that "academic determinations and related record administration fall within the discretionary authority of educational institutions." The section headed "Points of Error III and IV: Governmental Immunity" starts on page 402 and continues on page 403.
+
+**Evidence:**
+
+- [Plea, p. 6](https://case.kevinnbass.com/assets/pdfs/filings/2026-02-09-state-defendants-plea-to-jurisdiction.pdf#page=6): “see also Alcorn v. Vaksman, 877 S.W.2d 390, 403 (Tex. App.—Houston [1st Dist.] 1994, writ denied) (courts defer to academic judgments absent arbitrary or capricious action).”
+- [Reply on the plea, p. 5](https://case.kevinnbass.com/assets/pdfs/filings/2026-03-18-state-defendants-reply-plea-to-jurisdiction.pdf#page=5): “Alcorn v. Vaksman, 877 S.W.2d 390, 403 (Tex. App.—Houston [1st Dist.] 1994, writ denied).”
+- [Alcorn v. Vaksman, 877 S.W.2d at 402-03](https://www.courtlistener.com/opinion/2385030/): “Points of Error III and IV: Governmental Immunity”
+- [Alcorn v. Vaksman, 877 S.W.2d at 397](https://www.courtlistener.com/opinion/2385030/): “There are two types of valid dismissals: disciplinary and academic.”
+
+---
+
+<a id="state-20-state-24"></a>
+
+### 33. Cited a page of a Texas Supreme Court decision for a policy the decision does not state (State-20/State-24)
+
+- **Filing:** The State's Plea to the Jurisdiction, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Feb. 9, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 9
+
+**What the filing says:**
+
+> Texas law disfavors claim-splitting because it breeds litigation, multiplies costs, and needlessly burdens courts and parties. See Van Dyke, 697 S.W.2d at 383.
+
+**What the record shows:**
+
+The plea cites *Van Dyke*, 697 S.W.2d 381, 383 (Tex. 1985), for a policy against claim-splitting because it "multiplies costs." The cited page recounts the trial: "Boswell, O'Toole argued that if the court denied the mistrial motion, it would maintain that the malpractice counterclaim should be precluded."
+
+**Evidence:**
+
+- [Plea, p. 9](https://case.kevinnbass.com/assets/pdfs/filings/2026-02-09-state-defendants-plea-to-jurisdiction.pdf#page=9): “Texas law disfavors claim-splitting because it breeds litigation, multiplies costs, and needlessly burdens courts and parties. See Van Dyke, 697 S.W.2d at 383.”
+- [Van Dyke, 697 S.W.2d at 382-83](https://www.courtlistener.com/opinion/1714526/): “Boswell, O'Toole argued that if the court denied the mistrial motion, it would maintain”
+
+---
+
+<a id="state-21"></a>
+
+### 34. Cited a page of a Texas Supreme Court decision for a point the decision does not make (State-21)
+
+- **Filing:** The State's Plea to the Jurisdiction, 237th District Court, Lubbock County, No. DC-2025-CV-1817 (Feb. 9, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** page 9
+
+**What the filing says:**
+
+> Texas courts likewise recognize that immunity is intended to shield governmental officials not only from liability but from the burdens of litigation itself. See Harris Cty. v. Sykes, 136 S.W.3d 635, 639 (Tex. 2004).
+
+**What the record shows:**
+
+The cited page begins: "A trial court must grant a plea to the jurisdiction, after providing an appropriate opportunity to amend, when the pleadings do not state a cause of action upon which the trial court has jurisdiction."
+
+**Evidence:**
+
+- [Plea, p. 9](https://case.kevinnbass.com/assets/pdfs/filings/2026-02-09-state-defendants-plea-to-jurisdiction.pdf#page=9): “immunity is intended to shield governmental officials not only from liability but from the burdens of litigation itself. See Harris Cty. v. Sykes, 136 S.W.3d 635, 639 (Tex. 2004).”
+- [Harris County v. Sykes, 136 S.W.3d at 639](https://www.courtlistener.com/opinion/894530/): “A trial court must grant a plea to the jurisdiction, after providing an appropriate opportunity to amend, when the pleadings do not state a cause of action upon which the trial court has jurisdiction.”
+
+---
+
+<a id="f-92"></a>
+
+### 35. Cited the wrong pages of the magistrate judge's recommendation twice (F-92)
+
+- **Filing:** The State's response opposing Mr. Bass's renewed motion to amend (Doc. 58), U.S. District Court, Northern District of Texas (Lubbock), No. 5:25-cv-00244 (Aug. 5, 2026). Signed by Assistant Attorney General Scott D. Smith.
+- **Where:** pages 2 and 12
+
+**What the filing says:**
+
+> the Magistrate Judge has now concluded that Plaintiff has “pleaded his best case” and nevertheless failed to state viable claims. (Doc. 54 at 56).
+
+> that the Magistrate Judge concluded fail to state viable federal claims and are barred by qualified immunity. (Doc. 54 at 52–53).
+
+**What the record shows:**
+
+Page 56 of the recommendation (Doc. 54) gives the recommendation on amendment; it does not contain the quoted words. Pages 52-53 describe the new allegations about Dr. Trotter and others. The statement about clearly established law that the response relies on begins on page 54: "he fails to cite any case showing that the law was clearly established that Defendants' conduct was unlawful."
+
+**Evidence:**
+
+- [Response, p. 2](https://case.kevinnbass.com/assets/pdfs/filings/2026-08-05-dkt58-defendants-response.pdf#page=2): “the Magistrate Judge has now concluded that Plaintiff has “pleaded his best case” and nevertheless failed to state viable claims. (Doc. 54 at 56).”
+- [Response, p. 12](https://case.kevinnbass.com/assets/pdfs/filings/2026-08-05-dkt58-defendants-response.pdf#page=12): “the Magistrate Judge concluded fail to state viable federal claims and are barred by qualified immunity. (Doc. 54 at 52–53).”
+- [Recommendation, p. 45](https://case.kevinnbass.com/assets/pdfs/filings/2026-07-14-dkt54-findings-conclusions-recommendation.pdf#page=45): “Bass has pleaded his best case”
+- [Recommendation, p. 55](https://case.kevinnbass.com/assets/pdfs/filings/2026-07-14-dkt54-findings-conclusions-recommendation.pdf#page=55): “In sum, Bass has had ample opportunity to plead his best case.”
+- [Recommendation, p. 52](https://case.kevinnbass.com/assets/pdfs/filings/2026-07-14-dkt54-findings-conclusions-recommendation.pdf#page=52): “include additional facts about the purported misconduct of certain individuals—Gibson, Lauren Cobbs, Simon Williams, and Trotter”
+- [Recommendation, p. 54](https://case.kevinnbass.com/assets/pdfs/filings/2026-07-14-dkt54-findings-conclusions-recommendation.pdf#page=54): “he fails to cite any case showing that the law was clearly established that Defendants’ conduct was unlawful”
 
 ---

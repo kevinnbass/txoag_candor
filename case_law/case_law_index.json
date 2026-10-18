@@ -39,7 +39,8 @@
    "url": "https://www.courtlistener.com/opinion/588818/",
    "entries": [
     2,
-    3
+    3,
+    7
    ]
   },
   {
@@ -47,7 +48,8 @@
    "citation": "972 F.2d 605 (5th Cir. 1992)",
    "url": "https://www.courtlistener.com/opinion/588825/",
    "entries": [
-    3
+    3,
+    7
    ]
   },
   {
@@ -55,7 +57,8 @@
    "citation": "255 F.3d 261 (5th Cir. 2001)",
    "url": "https://www.courtlistener.com/opinion/24456/",
    "entries": [
-    3
+    3,
+    10
    ]
   },
   {
@@ -63,7 +66,7 @@
    "citation": "145 S.W.3d 170 (Tex. 2004)",
    "url": "https://www.courtlistener.com/opinion/894590/",
    "entries": [
-    9
+    23
    ]
   },
   {
@@ -71,7 +74,7 @@
    "citation": "43 F.4th 522 (5th Cir. 2022)",
    "url": "https://www.courtlistener.com/opinion/7855398/van-overdam-v-texas-a-m-univ/",
    "entries": [
-    13
+    27
    ]
   },
   {
@@ -79,7 +82,103 @@
    "citation": "806 S.W.2d 791 (Tex. 1991)",
    "url": "https://www.courtlistener.com/opinion/1519282/",
    "entries": [
-    15
+    29
+   ]
+  },
+  {
+   "name": "Strackbein v. Prewitt",
+   "citation": "671 S.W.2d 37 (Tex. 1984)",
+   "url": "https://www.courtlistener.com/opinion/2367100/",
+   "entries": [
+    4
+   ]
+  },
+  {
+   "name": "Esfeller v. O'Keefe",
+   "citation": "391 F. App'x 337 (5th Cir. 2010)",
+   "url": "https://www.courtlistener.com/opinion/8508154/",
+   "entries": [
+    5
+   ]
+  },
+  {
+   "name": "Rosenzweig v. Azurix Corp.",
+   "citation": "332 F.3d 854 (5th Cir. 2003)",
+   "url": "https://www.courtlistener.com/opinion/31529/",
+   "entries": [
+    6
+   ]
+  },
+  {
+   "name": "FDIC v. U.S. Fire Insurance Co.",
+   "citation": "50 F.3d 1304 (5th Cir. 1995)",
+   "url": "https://www.courtlistener.com/opinion/7033/",
+   "entries": [
+    7
+   ]
+  },
+  {
+   "name": "City of El Paso v. Heinrich",
+   "citation": "284 S.W.3d 366 (Tex. 2009)",
+   "url": "https://www.courtlistener.com/opinion/895110/",
+   "entries": [
+    30
+   ]
+  },
+  {
+   "name": "Pearson v. Callahan",
+   "citation": "555 U.S. 223 (2009)",
+   "url": "https://www.courtlistener.com/opinion/145918/",
+   "entries": [
+    31
+   ]
+  },
+  {
+   "name": "Alcorn v. Vaksman",
+   "citation": "877 S.W.2d 390 (Tex. App.\u2014Houston [1st Dist.] 1994, writ denied)",
+   "url": "https://www.courtlistener.com/opinion/2385030/",
+   "entries": [
+    32
+   ]
+  },
+  {
+   "name": "Van Dyke v. Boswell, O'Toole, Davis & Pickering",
+   "citation": "697 S.W.2d 381 (Tex. 1985)",
+   "url": "https://www.courtlistener.com/opinion/1714526/",
+   "entries": [
+    33
+   ]
+  },
+  {
+   "name": "Harris County v. Sykes",
+   "citation": "136 S.W.3d 635 (Tex. 2004)",
+   "url": "https://www.courtlistener.com/opinion/894530/",
+   "entries": [
+    34
+   ]
+  },
+  {
+   "name": "Peralta v. Heights Medical Center, Inc.",
+   "citation": "485 U.S. 80 (1988)",
+   "url": "https://www.courtlistener.com/opinion/112014/",
+   "entries": [
+    9
+   ]
+  },
+  {
+   "name": "Blackburn v. City of Marshall",
+   "citation": "42 F.3d 925 (5th Cir. 1995)",
+   "url": "https://www.courtlistener.com/opinion/684369/",
+   "entries": [
+    11
+   ]
+  },
+  {
+   "name": "Hughes v. City of Garland",
+   "citation": "204 F.3d 223 (5th Cir. 2000)",
+   "url": "https://www.courtlistener.com/opinion/19822/",
+   "entries": [
+    11
    ]
   }
  ],
@@ -95,7 +194,21 @@
    "name": "1 Tex. Admin. Code \u00a7 57.1 (definitions, outside counsel contracts)",
    "url": "https://www.law.cornell.edu/regulations/texas/1-Tex-Admin-Code-SS-57-1",
    "entries": [
-    14
+    28
+   ]
+  },
+  {
+   "name": "Tex. Civ. Prac. & Rem. Code \u00a7 104.004 (defense by attorney general)",
+   "url": "https://statutes.capitol.texas.gov/Docs/CP/htm/CP.104.htm#104.004",
+   "entries": [
+    8
+   ]
+  },
+  {
+   "name": "Texas Rule of Civil Procedure 306a",
+   "url": "https://www.txcourts.gov/rules-forms/rules-standards/",
+   "entries": [
+    1
    ]
   }
  ]
